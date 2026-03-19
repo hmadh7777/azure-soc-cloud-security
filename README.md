@@ -183,8 +183,6 @@ azure-soc-cloud-security/
 - 📧 Abinali7@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/ahmed-bakhadher)
 - 🌐 [Portfolio](https://hmadh7777.github.io)
-- 🎓 Bachelor Cybersecurity & Cloud — AP College Antwerp
-
 ---
 
 ## 📄 License
